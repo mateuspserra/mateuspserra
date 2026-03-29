@@ -29,8 +29,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mateuspserra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateuspserra&radius=16&theme=dracula&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=mateuspserra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateuspserra&radius=16&theme=dracula&area=true&order=5&hide_border=false&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -41,4 +41,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mateuspserra/mateuspserra/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+###****
