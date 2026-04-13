@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateus<br>Developer in training.</h1>
+<h1 align="center">Hi 👋, I'm Mateus<br>Developer full-stack.</h1>
 
 ###
 
